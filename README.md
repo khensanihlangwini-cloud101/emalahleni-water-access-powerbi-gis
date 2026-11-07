@@ -1,4 +1,4 @@
-# Emalahleni Water Access: Power BI and GIS Analysis
+# eMalahleni Water Access: Power BI and GIS Analysis
 
 ## Project overview
 
